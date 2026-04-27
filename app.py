@@ -3,7 +3,7 @@ import json
 import time
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="enter the key")
 
 if 'total_requests' not in st.session_state:
     st.session_state.total_requests = 0
