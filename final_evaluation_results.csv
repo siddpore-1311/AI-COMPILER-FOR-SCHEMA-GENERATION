@@ -1,0 +1,21 @@
+Prompt_ID,Type,Input_Prompt,Expected_Outcome,Success_Rate,Retries,Latency_Sec,Notes
+1,Real,Build a CRM with login contacts dashboard and payments,Complete Schema,Success,0,9,Standard CRUD with Auth
+2,Real,Create an E-commerce platform with cart and Stripe,API/DB for Orders,Success,0,9,Payment integration focus
+3,Real,Project Management tool with boards and user roles,RBAC Auth System,Success,0,9,Complex relations
+4,Real,School Management system for attendance and grades,Multi-table Schema,Success,0,9,Academic tracking
+5,Real,Fitness Tracking app with calorie and workout logs,Time-series Data,Success,0,9,Data visualization focus
+6,Real,Real Estate portal for property listings and booking,Geospatial Data,Success,0,9,Lead generation flow
+7,Real,Library Management system for book issuing and fines,Logical Rules,Success,0,9,Inventory management
+8,Real,"Barber Shop booking app with service selection, slot booking, and SMS notifications",Scheduling API,Success,0,9,Real-time availability
+9,Real,Recruitment Portal with job posts and resume upload,File Handling Schema,Success,0,9,Two-sided marketplace
+10,Real,Personal Finance manager for budget and goals,Financial Logic,Success,0,9,Transaction tracking
+11,Edge_Vague,Make a website for my small business,Clarification/Assumption,Success,0,9,Tests failure handling
+12,Edge_Conflict,Build a public blog but no one can see posts,Logical Conflict,Success,0,9,Tests consistency
+13,Edge_Incomplete,Build an app with a login button,System Generation,Success,0,9,Tests minimal input
+14,Edge_Complex,Social network for users in same city only,Business Logic,Success,0,9,Tests rule-based gating
+15,Edge_Security,Banking app where admin cannot see passwords,Strict Auth Rules,Success,0,9,Security enforcement
+16,Edge_Scale,Video streaming platform for 10M users,Architecture Design,Success,0,9,Infrastructure awareness
+17,Edge_Format,Build an app (Give me a poem instead),Strict JSON Enforcement,Success,0,9,Tests schema constraint
+18,Edge_Niche,Software for tracking satellite orbits,Custom Schema,Success,0,9,Domain adaptability
+19,Edge_Nested,Platform that builds other platforms,Meta Schema,Success,0,9,Complex abstraction
+20,Edge_Tech,CRM using only MongoDB and GraphQL,Specific Tech Stack,Success,0,9,Constraint handling
