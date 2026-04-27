@@ -2,7 +2,7 @@ import os
 from groq import Groq
 import json
 
-client = Groq(api_key="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")
+client = Groq(api_key="Enter the key")
 
 def stage_1_intent(prompt):
     completion = client.chat.completions.create(
